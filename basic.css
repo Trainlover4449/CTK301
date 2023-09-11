@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+.makegreen {
+    color: #00FF00;
+}
+
+#makeblue{
+    color: blueviolet;
+}
+
+#makeorange {
+    color: #FF6600;
+}
