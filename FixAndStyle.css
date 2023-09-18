@@ -1,0 +1,53 @@
+.highlightyellow {
+    background-color: #ffff00
+}
+
+#highlightyellow {
+    background-color: #ffff00
+}
+
+.makered {
+    color: red
+}
+
+#highlightgreen {
+    background-color:  #006400
+}
+
+#makeyellow {
+    color:  yellow
+}
+
+.makeblue {
+    color: #0d0dff
+}
+
+.makeorange {
+    color: #ffb020
+}
+
+#highlightblue {
+    color : #0d0dff
+}
+
+.highlightmint {
+    background-color: #90ee90
+}
+
+#highlightlightblue {
+    background-color: #99aaff
+}
+
+#makewhite {
+    color: white
+}
+
+a {
+    color:#006400;
+    text-decoration: none;
+}
+
+a:hover {
+    color:red;
+    text-decoration: underline;
+}
