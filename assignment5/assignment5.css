@@ -1,0 +1,94 @@
+h1 {
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font: Helvetica;
+}
+
+nav {
+    margin-bottom: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #00058b;
+    color: #ffffff;
+    display: inline-block;
+}
+
+nav li a {
+    color: #ffffff;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    text-align: left;
+    font-weight: normal;
+}
+
+nav li a:hover {
+    background-color: #010cfa;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: white;
+    padding: 30px;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font: Helvetica;
+    padding-bottom: 18px;
+    border-bottom: 3px solid #000000;
+    background-color: #ffffff;
+}
+
+body {
+    text-align: justify;
+    background-color: white;
+    padding: 8px;
+    background-image: url("a5bg.png");
+}
+
+div {
+    background-color: #ffffff;
+    padding: 24px;
+}
+
+body a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+body a:visited {
+    color: blue;
+}
+
+footer {
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font: Verdana;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    grid-column: span 6;
+    background-color: #00058b;
+    border: 5px solid #ffffff;
+    padding: 8px;
+    margin-top: 24px;
+}
